@@ -1,0 +1,12 @@
+[userinfo]
+  login = "admin@domain.not"
+  password = "admin@domain.not"
+  auth = true
+  authorized = 2022-09-10T02:16:24.8559851+03:00
+  session = false
+  activated = 0001-01-01T00:00:00Z
+
+[driverinfo]
+  path = ""
+  com = ""
+  time = ""
